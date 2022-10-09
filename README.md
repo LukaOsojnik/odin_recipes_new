@@ -1,6 +1,6 @@
 # odin-recipes
-This project is the attempt to create my first web page using HTML skills I've aquired throughout Odin Project lessons.
+Want to know how to make a great burger? 
+Well, try to find a better tutorial because this recipe was made under 2 minutes. 
 
-I will demonstrate how to create a web page about recipes with pictures and pages alike. 
 
 
