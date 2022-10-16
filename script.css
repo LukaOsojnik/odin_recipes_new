@@ -1,0 +1,28 @@
+#burger {
+    font-size: 22px;
+}
+.paddydisc {
+    color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sweetpotato {
+    font-size: 22px;
+}
+.potato {
+    color: orangered;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#sauceid {
+    font-size: 22px;
+    background-color: darkorange;
+}
+.sauce {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:gold
+}
+
+.class {
+    font-size: 16px;
+}
