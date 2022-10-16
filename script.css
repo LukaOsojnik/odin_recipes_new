@@ -1,3 +1,28 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+.gr1 {
+    text-align: center;
+}
+.bg {
+    background-color: aliceblue;
+    background-image:url(images/repeatingimg);
+    color:aliceblue
+}
+.container {
+    width: 50%;
+    max-width: 700px;
+    margin: 0 auto
+    }
+.box {
+    background: pink;
+    padding: 100px
+    
+}
+.img {
+    ;
+}
 #burger {
     font-size: 22px;
 }
@@ -20,7 +45,7 @@
 }
 .sauce {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:gold
+    color:rgb(224, 109, 15)
 }
 
 .class {
